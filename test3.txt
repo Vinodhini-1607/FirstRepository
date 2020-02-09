@@ -4,3 +4,4 @@ testing conflict
 
 conflict will arise
 
+stashing
