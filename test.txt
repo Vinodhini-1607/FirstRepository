@@ -3,7 +3,3 @@ welcome to git
 
 comparing with prev version
 
-push and put
-
-
-stashed and unstashed
