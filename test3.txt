@@ -1,3 +1,6 @@
 file for testing
 
+testing conflict
+
 conflict will arise
+
