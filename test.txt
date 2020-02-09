@@ -3,6 +3,6 @@ welcome to git
 
 comparing with prev version
 
-push and pull
+push and put
 
 
