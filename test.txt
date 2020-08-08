@@ -1,8 +1,9 @@
 testing code ...
 welcome to git
-
+ push and pull easily
 testing stash
 
 comparing with prev version
+master
 
-triggering merge conflicts...........
+bit bucket
