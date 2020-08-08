@@ -1,6 +1,9 @@
 testing code ...
 welcome to git
  push and pull easily
- push and pull
+testing stash
 
+comparing with prev version
 master
+
+bit bucket
