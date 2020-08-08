@@ -1,28 +1,6 @@
 testing code ...
 welcome to git
 
- push and pull
- 
- testting pulls
-ssssssssss
-
-
-
-
-
-ddddddddd
- testting pull
- eeeeeeeeeeee
- 
- 
- 
- 
- eeeeeeeeeee
-
-
 testing stash
 
 comparing with prev version
-
-triggering merge conflicts
- firstBranch
