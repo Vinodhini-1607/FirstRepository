@@ -1,5 +1,6 @@
 testing code ...
 welcome to git
+
  push and pull
  
  testting pulls
@@ -17,3 +18,11 @@ ddddddddd
  
  
  eeeeeeeeeee
+
+
+testing stash
+
+comparing with prev version
+
+triggering merge conflicts
+ firstBranch
