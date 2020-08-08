@@ -1,9 +1,1 @@
-testing code ...
-welcome to git
- push and pull easily
-testing stash
-
-comparing with prev version
-master
-
-bit bucket
+editing to get conflict
