@@ -1,8 +1,10 @@
+
+
 testing code ...
 welcome to git
  push and pull easily
 testing stash
-
+editing to get conflict
 comparing with prev version
 master
 
