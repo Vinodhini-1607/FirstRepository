@@ -1,12 +1,1 @@
-testing code ...
-welcome to git
-
-testing stash
-
-comparing with prev version
-
-bit bucket
-
-ssssssssss
-zzzzzzzzzzzzzz
-ssssssssssss
+merging conflctd
