@@ -5,3 +5,5 @@ testing conflict
 conflict will arise
 
 stashing
+
+check whether you get any conflicts
